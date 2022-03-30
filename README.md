@@ -7,7 +7,7 @@ If you finish the challenge, that's great, but is totally fine to only get part 
 
 We've set up `create-react-app` in this repo, and you should be able to get dependencies installed with `npm install` and the app running with `npm start`. If not, let us know and we'll help out. From here, we want you to build a simple admin dashboard that does some or all of the following using the accounts.json file in this project:
 
-- A user can search for accounts based on email address. Each time the user types a letter, the search results should update.
+- A user can search for accounts based on email address. Possible accounts should display as the user types an address.
 - When the user clicks on an account search result, the account information should display
 - Search results that have been clicked on are listed in a 'history' section of the browser, so that the user know what results have been viewed already.
 
