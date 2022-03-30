@@ -5,6 +5,8 @@ Kia Ora! Flick's homework assignment is designed to get an idea of the scope of 
 If you finish the challenge, that's great, but is totally fine to only get part of the way through. We want to see how your problem solving skills; so please explain any decisions you make based on your time / knowledge constraints when you create your pull request.
 ## Instructions
 
+Check out this repository and create a branch with your name in it.
+
 We've set up `create-react-app` in this repo, and you should be able to get dependencies installed with `npm install` and the app running with `npm start`. If not, let us know and we'll help out. From here, we want you to build a simple admin dashboard that does some or all of the following using the accounts.json file in this project:
 
 - A user can search for accounts based on email address. Possible accounts should display as the user types an address.
